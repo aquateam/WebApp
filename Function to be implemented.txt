@@ -1,1 +1,10 @@
-Add the functions to be implemented.
+Add the functions to be implemented. 
+------------/buttons/----------------
+-button to activate both pumps( pump dirty water out/ pump clean regulated water in)
+-sliding bar to regulate luminosity. 
+-button to activate feeder.
+
+
+
+
+
