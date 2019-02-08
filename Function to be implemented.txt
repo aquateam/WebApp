@@ -1,1 +1,13 @@
 Add the functions to be implemented.
+
+
+
+
+
+
+
+
+-------//------
+Display water level.
+Display Temperature.
+Display Food Level.
