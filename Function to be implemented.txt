@@ -1,10 +1,24 @@
+<<<<<<< HEAD
 Add the functions to be implemented. 
 ------------/buttons/----------------
 -button to activate both pumps( pump dirty water out/ pump clean regulated water in)
 -sliding bar to regulate luminosity. 
 -button to activate feeder.
+=======
+Add the functions to be implemented.
+>>>>>>> 3fda82d41cd4b357d89b0b3f68e415535e1465dc
 
 
 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+-------//------
+Display water level.
+Display Temperature.
+Display Food Level.
+>>>>>>> 3fda82d41cd4b357d89b0b3f68e415535e1465dc
