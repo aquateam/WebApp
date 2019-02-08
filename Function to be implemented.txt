@@ -1,24 +1,26 @@
-<<<<<<< HEAD
 Add the functions to be implemented. 
-------------/buttons/----------------
+------------/Buttons/----------------
 -button to activate both pumps( pump dirty water out/ pump clean regulated water in)
 -sliding bar to regulate luminosity. 
 -button to activate feeder.
-=======
 Add the functions to be implemented.
->>>>>>> 3fda82d41cd4b357d89b0b3f68e415535e1465dc
 
 
 
 
 
-<<<<<<< HEAD
-=======
 
 
 
--------//------
+----------/Display/----------
 Display water level.
 Display Temperature.
 Display Food Level.
->>>>>>> 3fda82d41cd4b357d89b0b3f68e415535e1465dc
+--------/Notifications/------
+Notify the user in case :
+    -The water level is low.
+    -The water level is high.
+    -The water level is fixed (normal level).
+    -The Temperature is high.
+    -The Temperature is low.
+    -The Temperature is fixed.
